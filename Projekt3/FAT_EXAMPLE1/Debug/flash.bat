@@ -1,0 +1,1 @@
+"C:\Program Files\Atmel\Flip 3.4.5\bin\batchisp.exe" -device at32uc3a0512 -hardware usb -operation erase f memory flash blankcheck loadbuffer FAT_EXAMPLE1.elf program verify start reset 0
